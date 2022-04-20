@@ -1,0 +1,11 @@
+title: ESMValTool
+author: Stanislaus Cristo
+email: cristotjahjadi@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Website for ESMValTool software
+
+github_username:  stacristo
+
+sass:
+    style: compressed
+
