@@ -1,3 +1,4 @@
+theme: materialize
 title: ESMValTool
 author: Stanislaus Cristo
 email: cristotjahjadi@gmail.com
@@ -9,3 +10,4 @@ github_username:  stacristo
 sass:
     style: compressed
 
+higlighter: rouge
