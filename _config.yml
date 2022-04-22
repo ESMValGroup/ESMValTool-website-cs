@@ -9,4 +9,5 @@ github_username:  stacristo
 sass:
     style: compressed
 
+markdown: kramdown
 higlighter: rouge
