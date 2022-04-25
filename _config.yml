@@ -10,4 +10,6 @@ sass:
     style: compressed
 
 markdown: kramdown
-higlighter: rouge
+kramdown: 
+        input: Kramdown
+        syntax_higlighter: coderay
