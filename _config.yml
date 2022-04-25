@@ -9,4 +9,7 @@ github_username:  stacristo
 sass:
     style: compressed
 
-higlighter: rouge
+markdown: kramdown
+kramdown: 
+        input: Kramdown
+        syntax_higlighter: coderay
