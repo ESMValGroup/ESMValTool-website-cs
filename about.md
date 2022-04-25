@@ -3,7 +3,6 @@ layout: page
 title: About ESMValTool
 url: /about.html
 ---
-# ESMValTool | About
 
 ## What is the ESMValTool?
 The Earth System Model Evaluation Tool (ESMValTool) is a community
