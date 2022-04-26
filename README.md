@@ -101,6 +101,11 @@ As an example, the color of the header is changed from the default color by addi
 ```
 The `blue darken-4` specifies the color palette used for the header.
 
+# Additional Resources
+
+1. [Github Pages documentation](https://docs.github.com/en/pages)
+2. [Jekyll documentation](https://jekyllrb.com/docs/)
+
 
 # License
 
