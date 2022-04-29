@@ -101,6 +101,12 @@ As an example, the color of the header is changed from the default color by addi
 ```
 The `blue darken-4` specifies the color palette used for the header.
 
+## Editing and Adding Pages
+
+The pages in this website are located inside the markdown (`.md`) files in root. Edits can be done by customizing the text inside the markdown files and new pages can be added by creating new markdown files.
+
+To show the new pages, it must be sure that these pages are linked inside the website. This can be done by linking the pages in the header of the website, which can be done by adding them in the `_includes/header.html` file or link them in any other files.
+
 # Additional Resources
 
 1. [Github Pages documentation](https://docs.github.com/en/pages)
